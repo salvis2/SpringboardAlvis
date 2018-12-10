@@ -1,0 +1,142 @@
+champion_name,name,id,key,tags,info.attack,info.defense,info.difficulty,info.magic
+MonkeyKing,Wukong,MonkeyKing,62,"[Fighter, Tank]",8,5,3,2
+Jax,Jax,Jax,24,"[Fighter, Assassin]",7,5,5,7
+Kayn,Kayn,Kayn,141,"[Fighter, Assassin]",10,6,8,1
+Shaco,Shaco,Shaco,35,[Assassin],8,4,9,6
+Warwick,Warwick,Warwick,19,"[Fighter, Tank]",9,5,3,3
+Xayah,Xayah,Xayah,498,[Marksman],10,6,5,1
+Nidalee,Nidalee,Nidalee,76,"[Assassin, Fighter]",5,4,8,7
+Zyra,Zyra,Zyra,143,"[Mage, Support]",4,3,7,8
+Kled,Kled,Kled,240,"[Fighter, Tank]",8,2,7,2
+Brand,Brand,Brand,63,[Mage],2,2,4,9
+Rammus,Rammus,Rammus,33,"[Tank, Fighter]",4,10,5,5
+Illaoi,Illaoi,Illaoi,420,"[Fighter, Tank]",8,6,4,3
+Corki,Corki,Corki,42,[Marksman],8,3,6,6
+Braum,Braum,Braum,201,"[Support, Tank]",3,9,3,4
+Anivia,Anivia,Anivia,34,"[Mage, Support]",1,4,10,10
+Tryndamere,Tryndamere,Tryndamere,23,"[Fighter, Assassin]",10,5,5,2
+MissFortune,Miss Fortune,MissFortune,21,[Marksman],8,2,1,5
+Yorick,Yorick,Yorick,83,"[Fighter, Tank]",6,6,6,4
+Xerath,Xerath,Xerath,101,"[Mage, Assassin]",1,3,8,10
+Sivir,Sivir,Sivir,15,[Marksman],9,3,4,1
+Riven,Riven,Riven,92,"[Fighter, Assassin]",8,5,8,1
+Orianna,Orianna,Orianna,61,"[Mage, Support]",4,3,7,9
+Sejuani,Sejuani,Sejuani,113,"[Tank, Fighter]",5,7,4,6
+Gangplank,Gangplank,Gangplank,41,[Fighter],7,6,9,4
+Malphite,Malphite,Malphite,54,"[Tank, Fighter]",5,9,2,7
+Poppy,Poppy,Poppy,78,"[Tank, Fighter]",6,7,6,2
+Kaisa,Kai'Sa,Kaisa,145,[Marksman],8,5,6,3
+Jayce,Jayce,Jayce,126,"[Fighter, Marksman]",8,4,7,3
+Blitzcrank,Blitzcrank,Blitzcrank,53,"[Tank, Fighter]",4,8,4,5
+Trundle,Trundle,Trundle,48,"[Fighter, Tank]",7,6,5,2
+Karthus,Karthus,Karthus,30,[Mage],2,2,7,10
+Zoe,Zoe,Zoe,142,"[Mage, Support]",1,7,5,8
+Graves,Graves,Graves,104,[Marksman],8,5,3,3
+Lucian,Lucian,Lucian,236,[Marksman],8,5,6,3
+Gnar,Gnar,Gnar,150,"[Fighter, Tank]",6,5,8,5
+Lux,Lux,Lux,99,"[Mage, Support]",2,4,5,9
+Shyvana,Shyvana,Shyvana,102,"[Fighter, Tank]",8,6,4,3
+Renekton,Renekton,Renekton,58,"[Fighter, Tank]",8,5,3,2
+Fiora,Fiora,Fiora,114,"[Fighter, Assassin]",10,4,3,2
+Jinx,Jinx,Jinx,222,[Marksman],9,2,6,4
+Kalista,Kalista,Kalista,429,[Marksman],8,2,7,4
+Fizz,Fizz,Fizz,105,"[Assassin, Fighter]",6,4,6,7
+Kassadin,Kassadin,Kassadin,38,"[Assassin, Mage]",3,5,8,8
+Sona,Sona,Sona,37,"[Support, Mage]",5,2,4,8
+Vladimir,Vladimir,Vladimir,8,"[Mage, Tank]",2,6,7,8
+Viktor,Viktor,Viktor,112,[Mage],2,4,9,10
+Rakan,Rakan,Rakan,497,[Support],2,4,5,8
+Kindred,Kindred,Kindred,203,[Marksman],8,2,4,2
+Cassiopeia,Cassiopeia,Cassiopeia,69,[Mage],2,3,10,9
+Maokai,Maokai,Maokai,57,"[Tank, Mage]",3,8,3,6
+Ornn,Ornn,Ornn,516,"[Tank, Fighter]",5,9,5,3
+Thresh,Thresh,Thresh,412,"[Support, Fighter]",5,6,7,6
+Kayle,Kayle,Kayle,10,"[Fighter, Support]",6,6,7,7
+Hecarim,Hecarim,Hecarim,120,"[Fighter, Tank]",8,6,6,4
+Khazix,Kha'Zix,Khazix,121,"[Assassin, Fighter]",9,4,6,3
+Olaf,Olaf,Olaf,2,"[Fighter, Tank]",9,5,3,3
+Ziggs,Ziggs,Ziggs,115,[Mage],2,4,4,9
+Syndra,Syndra,Syndra,134,"[Mage, Support]",2,3,8,9
+DrMundo,Dr. Mundo,DrMundo,36,"[Fighter, Tank]",5,7,5,6
+Karma,Karma,Karma,43,"[Mage, Support]",1,7,5,8
+Annie,Annie,Annie,1,[Mage],2,3,6,10
+Akali,Akali,Akali,84,[Assassin],5,3,7,8
+Leona,Leona,Leona,89,"[Tank, Support]",4,8,4,3
+Yasuo,Yasuo,Yasuo,157,"[Fighter, Assassin]",8,4,10,4
+Kennen,Kennen,Kennen,85,"[Mage, Marksman]",6,4,4,7
+Rengar,Rengar,Rengar,107,"[Assassin, Fighter]",7,4,8,2
+Ryze,Ryze,Ryze,13,"[Mage, Fighter]",2,2,7,10
+Shen,Shen,Shen,98,[Tank],3,9,4,3
+Zac,Zac,Zac,154,"[Tank, Fighter]",3,7,8,7
+Pantheon,Pantheon,Pantheon,80,"[Fighter, Assassin]",9,4,4,3
+Swain,Swain,Swain,50,"[Mage, Fighter]",2,6,8,9
+Bard,Bard,Bard,432,"[Support, Mage]",4,4,9,5
+Sion,Sion,Sion,14,"[Tank, Fighter]",5,9,5,3
+Vayne,Vayne,Vayne,67,"[Marksman, Assassin]",10,1,8,1
+Nasus,Nasus,Nasus,75,"[Fighter, Tank]",7,5,6,6
+Fiddlesticks,Fiddlesticks,Fiddlesticks,9,"[Mage, Support]",2,3,9,9
+TwistedFate,Twisted Fate,TwistedFate,4,[Mage],6,2,9,6
+Chogath,Cho'Gath,Chogath,31,"[Tank, Mage]",3,7,5,7
+Udyr,Udyr,Udyr,77,"[Fighter, Tank]",8,7,7,4
+Morgana,Morgana,Morgana,25,"[Mage, Support]",1,6,1,8
+Ivern,Ivern,Ivern,427,"[Support, Mage]",3,5,7,7
+Volibear,Volibear,Volibear,106,"[Fighter, Tank]",7,7,3,4
+Caitlyn,Caitlyn,Caitlyn,51,[Marksman],8,2,6,2
+Darius,Darius,Darius,122,"[Fighter, Tank]",9,5,2,1
+Nocturne,Nocturne,Nocturne,56,"[Assassin, Fighter]",9,5,4,2
+Rumble,Rumble,Rumble,68,"[Fighter, Mage]",3,6,10,8
+Zilean,Zilean,Zilean,26,"[Support, Mage]",2,5,6,8
+Azir,Azir,Azir,268,"[Mage, Marksman]",6,3,9,8
+Diana,Diana,Diana,131,"[Fighter, Mage]",7,6,4,8
+Skarner,Skarner,Skarner,72,"[Fighter, Tank]",7,6,5,5
+Teemo,Teemo,Teemo,17,"[Marksman, Assassin]",5,3,6,7
+Urgot,Urgot,Urgot,6,"[Fighter, Marksman]",8,5,8,3
+Amumu,Amumu,Amumu,32,"[Tank, Mage]",2,6,3,8
+Galio,Galio,Galio,3,"[Tank, Mage]",1,10,5,6
+Heimerdinger,Heimerdinger,Heimerdinger,74,"[Mage, Support]",2,6,8,8
+Ashe,Ashe,Ashe,22,"[Marksman, Support]",7,3,4,2
+Velkoz,Vel'Koz,Velkoz,161,[Mage],2,2,8,10
+Singed,Singed,Singed,27,"[Tank, Fighter]",4,8,5,7
+Taliyah,Taliyah,Taliyah,163,"[Mage, Support]",1,7,5,8
+Varus,Varus,Varus,110,"[Marksman, Mage]",7,3,2,4
+Twitch,Twitch,Twitch,29,"[Marksman, Assassin]",9,2,6,3
+Garen,Garen,Garen,86,"[Fighter, Tank]",7,7,5,1
+Nunu,Nunu & Willump,Nunu,20,"[Tank, Fighter]",4,6,4,7
+MasterYi,Master Yi,MasterYi,11,"[Assassin, Fighter]",10,4,4,2
+Pyke,Pyke,Pyke,555,"[Support, Assassin]",9,3,7,1
+Elise,Elise,Elise,60,"[Mage, Fighter]",6,5,9,7
+Alistar,Alistar,Alistar,12,"[Tank, Support]",6,9,7,5
+Katarina,Katarina,Katarina,55,"[Assassin, Mage]",4,3,8,9
+Ekko,Ekko,Ekko,245,"[Assassin, Fighter]",5,3,8,7
+Mordekaiser,Mordekaiser,Mordekaiser,82,[Fighter],4,6,4,7
+Lulu,Lulu,Lulu,117,"[Support, Mage]",4,5,5,7
+Camille,Camille,Camille,164,"[Fighter, Tank]",8,6,4,3
+Aatrox,Aatrox,Aatrox,266,"[Fighter, Tank]",8,4,4,3
+Draven,Draven,Draven,119,[Marksman],9,3,8,1
+TahmKench,Tahm Kench,TahmKench,223,"[Support, Tank]",3,9,5,6
+Talon,Talon,Talon,91,"[Assassin, Fighter]",9,3,7,1
+XinZhao,Xin Zhao,XinZhao,5,"[Fighter, Assassin]",8,6,2,3
+AurelionSol,Aurelion Sol,AurelionSol,136,"[Mage, Fighter]",2,3,7,8
+LeeSin,Lee Sin,LeeSin,64,"[Fighter, Assassin]",8,5,6,3
+Taric,Taric,Taric,44,"[Support, Fighter]",4,8,3,5
+Malzahar,Malzahar,Malzahar,90,"[Mage, Assassin]",2,2,6,9
+Lissandra,Lissandra,Lissandra,127,[Mage],2,5,6,8
+Tristana,Tristana,Tristana,18,"[Marksman, Assassin]",9,3,4,5
+RekSai,Rek'Sai,RekSai,421,[Fighter],8,5,3,2
+Irelia,Irelia,Irelia,39,"[Fighter, Assassin]",7,4,5,5
+JarvanIV,Jarvan IV,JarvanIV,59,"[Tank, Fighter]",6,8,5,3
+Nami,Nami,Nami,267,"[Support, Mage]",4,3,5,7
+Jhin,Jhin,Jhin,202,"[Marksman, Assassin]",10,2,6,6
+Soraka,Soraka,Soraka,16,"[Support, Mage]",2,5,3,7
+Veigar,Veigar,Veigar,45,[Mage],2,2,7,10
+Janna,Janna,Janna,40,"[Support, Mage]",3,5,7,7
+Nautilus,Nautilus,Nautilus,111,"[Tank, Fighter]",4,6,6,6
+Evelynn,Evelynn,Evelynn,28,"[Assassin, Mage]",4,2,10,7
+Gragas,Gragas,Gragas,79,"[Fighter, Mage]",4,7,5,6
+Zed,Zed,Zed,238,"[Assassin, Fighter]",9,2,7,1
+Vi,Vi,Vi,254,"[Fighter, Assassin]",8,5,4,3
+KogMaw,Kog'Maw,KogMaw,96,"[Marksman, Mage]",8,2,6,5
+Ahri,Ahri,Ahri,103,"[Mage, Assassin]",3,4,5,8
+Quinn,Quinn,Quinn,133,"[Marksman, Fighter]",9,4,5,2
+Leblanc,LeBlanc,Leblanc,7,"[Assassin, Mage]",1,4,9,10
+Ezreal,Ezreal,Ezreal,81,"[Marksman, Mage]",7,2,7,6
