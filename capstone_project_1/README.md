@@ -1,3 +1,4 @@
+## League of Legends Item Balancing
 This is the repository for my first capstone project: League of Legends Item Balancing, part of my SpringBoard Data Science Career Track curriculum.
 
 This repository contains the data files and the Jupyter notebooks for each of the steps in my project's analysis.
