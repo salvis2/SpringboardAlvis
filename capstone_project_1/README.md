@@ -3,8 +3,8 @@ This is the repository for my first capstone project: League of Legends Item Bal
 
 This repository contains the data files and the Jupyter notebooks for each of the steps in my project's analysis.
 
-The documentation is in the following Google Drive folder:
-https://drive.google.com/drive/u/0/folders/1txlu0tMy173O6N7p61SgwsUZjI-_ApZK
+The documentation is in the following <a href='https://drive.google.com/drive/u/0/folders/1txlu0tMy173O6N7p61SgwsUZjI-_ApZK'>Google Drive folder</a>.
+
 
 The original project proposals are at
   https://docs.google.com/document/d/1VuyZARXjh_g1gKjVY1xix4kJ32gM3IULC4Q9lpZzl6U/edit?usp=sharing
