@@ -1,6 +1,11 @@
 ## League of Legends Item Balancing
 This is the repository for my first capstone project: League of Legends Item Balancing, part of my SpringBoard Data Science Career Track curriculum.
 
+### About this project
+This project was born out of a love for data science and League of Legends.
+I have seen many websites that suggest various characters and items for players in a game of League of Legends, so I didn't want this project to follow suit. Instead, I took a stab at a problem from a developer standpoint. 
+My overarching question was: As a developer for League of Legends, how do I know when I need to change an item? Can I develop a method or metrics to help with this?
+
 ### About this repository
 This repository contains the data files and the Jupyter notebooks for each of the steps in my project's analysis.
 
@@ -16,6 +21,8 @@ The documentation is in the following
 <a href='https://docs.google.com/document/d/1UpmTvFLnK358bkCElF-5BBpu8rGkTa4aa47KeYMUc3k/edit?usp=sharing'>
   Final Project Proposal
 </a>
+
+#### Capstone Project Process
 
 The process for this capstone project is as follows:
 Data is acquired and exported to csv in the data wrangling 
@@ -53,7 +60,7 @@ Data is analyzed with machine learning in the in-depth analysis (IDA)
   Final Presentation
 </a>
 
-### Running the Notebooks
+#### Running the Notebooks
 
 If you wish to run the first notebook, you will first need to go to https://developer.riotgames.com/ and get a development API key. You log in with your League of Legends account, if you have one. If not, you need to create one. There is a spot in the data wrangling notebook where you can place the API key, and then the notebook should function correctly.
 
