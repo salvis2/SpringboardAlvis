@@ -4,11 +4,11 @@ This is the repository for my first capstone project: League of Legends Item Bal
 ### About this project
 This project was born out of a love for data science and League of Legends.
 I have seen many websites that suggest various characters and items for players in a game of League of Legends, so I didn't want this project to follow suit. Instead, I took a stab at a problem from a developer standpoint. 
-My overarching question was: As a developer for League of Legends, how do I know when I need to change an item? Can I develop a method or metrics to help with this? (Note that while there are roughly 237 items in LoL, I only analyzed 80. More on that in the notebooks)
+My overarching question was: As a developer for League of Legends, how do I know when I need to change an item? Can I develop methods or metrics to help with this? (Note that while there are roughly 237 items in LoL, I only analyzed 80. More on that in the notebooks)
 
 I developed two metrics, one through statistical analysis and one through machine learning.
 
-This first metric was gathering statistics on how often each item won, including the average win rate, and finding items that were unlikely to have the average win rate as their true win rate. This produced two lists of items: items that won too often, and items that didn't win often enough.
+This first metric was gathering statistics on how often each item won (including the average win rate across all items) and finding items that were unlikely to have the average win rate as their true win rate. This produced two lists of items: items that won too often, and items that didn't win often enough.
 
 The second metric was the feature coefficients of a logistic regression. I took the top and bottom 10 coefficients and considered those to be unusually strong or weak predictors of game result.
 
@@ -33,6 +33,7 @@ The documentation is in the following
 #### Capstone Project Process
 
 The process for this capstone project is as follows:
+
 Data is acquired and exported to csv in the data wrangling 
 <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_wrangling_test.ipynb'>
   notebook
