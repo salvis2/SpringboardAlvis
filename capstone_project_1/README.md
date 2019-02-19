@@ -1,37 +1,30 @@
 ## League of Legends Item Balancing
 This is the repository for my first capstone project: League of Legends Item Balancing, part of my SpringBoard Data Science Career Track curriculum.
 
+### About this repository
 This repository contains the data files and the Jupyter notebooks for each of the steps in my project's analysis.
 
 The documentation is in the following <a href='https://drive.google.com/drive/u/0/folders/1txlu0tMy173O6N7p61SgwsUZjI-_ApZK'>Google Drive folder</a>.
 
-
-The original project proposals are at
-  https://docs.google.com/document/d/1VuyZARXjh_g1gKjVY1xix4kJ32gM3IULC4Q9lpZzl6U/edit?usp=sharing
+The original project proposals are <a href='https://docs.google.com/document/d/1VuyZARXjh_g1gKjVY1xix4kJ32gM3IULC4Q9lpZzl6U/edit?usp=sharing'>here</a>.
   
-The final project proposal is at
-  https://docs.google.com/document/d/1UpmTvFLnK358bkCElF-5BBpu8rGkTa4aa47KeYMUc3k/edit?usp=sharing
+The final project proposal is <a href='https://docs.google.com/document/d/1UpmTvFLnK358bkCElF-5BBpu8rGkTa4aa47KeYMUc3k/edit?usp=sharing'>here</a>.
 
 The process for this capstone project is as follows:
-Data is acquired and exported to csv in the data wrangling sections
-  https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_wrangling_test.ipynb
-  https://docs.google.com/document/d/1ZEtG8J5OLgc7ZrKy63zEYGR_Sx5nVMUxgOtI1KCwl-M/edit?usp=sharing
+Data is acquired and exported to csv in the data wrangling <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_wrangling_test.ipynb'>notebook</a>.
+A writeup of this process is <a href='https://docs.google.com/document/d/1ZEtG8J5OLgc7ZrKy63zEYGR_Sx5nVMUxgOtI1KCwl-M/edit?usp=sharing'>here</a>.
 
-Data is visualized and explained in the data storytelling sections
-  https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_storytelling.ipynb
+Data is visualized and explained in the data storytelling <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_storytelling.ipynb'>notebook</a>.
+
+Data is analyzed statistically in the exploratory data analysis (EDA) <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_EDA.ipynb'>notebook</a>.
+A writeup of the EDA is <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_eda_report.pdf'>here</a>.
+
+Data is analyzed with machine learning in the in-depth analysis (IDA) <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_ida.ipynb'>notebook</a>.
   
-Data is analyzed statistically in the exploratory data analysis (EDA) sections
-  https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_EDA.ipynb
-  https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_eda_report.pdf
 
-Data is analyzed with machine learning in the in-depth analysis (IDA) sections
-  https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_ida.ipynb
+<a href='https://docs.google.com/document/d/1R3gYKpOdeu2fklTPPRNTi-4Tso-tiKHORYBUdV8Dl_E/edit?usp=sharing'>Final report</a>
 
-The final report for this project is at 
-  https://docs.google.com/document/d/1R3gYKpOdeu2fklTPPRNTi-4Tso-tiKHORYBUdV8Dl_E/edit?usp=sharing
-  
-The final presentation for this project is at
-  https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_presentation.pptx
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_presentation.pptx'>Final Presentation</a>
 
 ### Running the Notebooks
 
