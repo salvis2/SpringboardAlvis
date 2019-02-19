@@ -12,7 +12,7 @@ The documentation is in the following
 <a href='https://docs.google.com/document/d/1VuyZARXjh_g1gKjVY1xix4kJ32gM3IULC4Q9lpZzl6U/edit?usp=sharing'>
   Original Project Proposals
 </a>
-  
+<br>
 <a href='https://docs.google.com/document/d/1UpmTvFLnK358bkCElF-5BBpu8rGkTa4aa47KeYMUc3k/edit?usp=sharing'>
   Final Project Proposal
 </a>
@@ -21,9 +21,9 @@ The process for this capstone project is as follows:
 Data is acquired and exported to csv in the data wrangling 
 <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_wrangling_test.ipynb'>
   notebook
-</a>.
+</a>.<br>
 <a href='https://docs.google.com/document/d/1ZEtG8J5OLgc7ZrKy63zEYGR_Sx5nVMUxgOtI1KCwl-M/edit?usp=sharing'>
-  Data Wrangling Writeup
+  The Data Wrangling Explained
 </a>
 
 Data is visualized and explained in the data storytelling 
@@ -34,9 +34,9 @@ Data is visualized and explained in the data storytelling
 Data is analyzed statistically in the exploratory data analysis (EDA) 
 <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_EDA.ipynb'>
   notebook
-</a>.
+</a>.<br>
 <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_eda_report.pdf'>
-  EDA Writeup
+  The EDA Explained
 </a>
 
 Data is analyzed with machine learning in the in-depth analysis (IDA) 
@@ -48,7 +48,7 @@ Data is analyzed with machine learning in the in-depth analysis (IDA)
 <a href='https://docs.google.com/document/d/1R3gYKpOdeu2fklTPPRNTi-4Tso-tiKHORYBUdV8Dl_E/edit?usp=sharing'>
   Final report
 </a>
-
+<br>
 <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_presentation.pptx'>
   Final Presentation
 </a>
