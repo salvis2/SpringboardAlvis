@@ -35,7 +35,7 @@ The documentation is in the following
 The process for this capstone project is as follows:
 
 Data is acquired and exported to csv in the data wrangling 
-<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_wrangling_test.ipynb'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/notebooks/capstone_project_1_data_wrangling_test.ipynb'>
   notebook
 </a>.<br>
 <a href='https://docs.google.com/document/d/1ZEtG8J5OLgc7ZrKy63zEYGR_Sx5nVMUxgOtI1KCwl-M/edit?usp=sharing'>
@@ -43,20 +43,20 @@ Data is acquired and exported to csv in the data wrangling
 </a>
 
 Data is visualized and explained in the data storytelling 
-<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_data_storytelling.ipynb'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/notebooks/capstone_project_1_data_storytelling.ipynb'>
   notebook
 </a>.
 
 Data is analyzed statistically in the exploratory data analysis (EDA) 
-<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_EDA.ipynb'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/notebooks/capstone_project_1_EDA.ipynb'>
   notebook
 </a>.<br>
-<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_eda_report.pdf'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/notebooks/capstone_project_1_eda_report.pdf'>
   The EDA Explained
 </a>
 
 Data is analyzed with machine learning in the in-depth analysis (IDA) 
-<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_ida.ipynb'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/notebooks/capstone_project_1_ida.ipynb'>
   notebook
 </a>.
   
@@ -65,7 +65,7 @@ Data is analyzed with machine learning in the in-depth analysis (IDA)
   Final report
 </a>
 <br>
-<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/capstone_project_1_presentation.pdf'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/reports/capstone_project_1_presentation.pdf'>
   Final Presentation
 </a>
 
