@@ -1,0 +1,170 @@
+,id,created_at,text,user.id,user.name,user.screen_name,user.followers_count,user.friends_count,user.statuses_count,user.verified,favorite_count,retweet_count,retweeted,in_reply_to_screen_name,in_reply_to_status_id,in_reply_to_user_id,is_quote_status,quoted_status.id,quoted_status.created_at,quoted_status.text,quoted_status.user.id,quoted_status.user.followers_count,quoted_status.user.friends_count,quoted_status.user.statuses_count,quoted_status.user.verified,quoted_status.favorite_count,quoted_status.retweet_count,quoted_status.retweeted,quoted_status.in_reply_to_screen_name,quoted_status.in_reply_to_status_id,quoted_status.in_reply_to_user_id,quoted_status_id,quoted_status.user.following,quoted_status.is_quote_status,retweeted_status.id,retweeted_status.created_at,retweeted_status.user.id,retweeted_status.user.followers_count,retweeted_status.user.friends_count,retweeted_status.user.statuses_count,retweeted_status.user.verified,retweeted_status.favorite_count,retweeted_status.retweet_count,retweeted_status.retweeted,retweeted_status.in_reply_to_screen_name,retweeted_status.in_reply_to_status_id,retweeted_status.in_reply_to_user_id,retweeted_status.user.following,retweeted_status.is_quote_status,retweeted_status.favorited
+0,1105881506851971072,2019-03-13 17:21:12,"@ConstianoM Yes, we have fix planned. https://t.co/v336RKXgOm",26280712,Bungie,Bungie,2538710,208,10987,True,2,2,False,ConstianoM,1.10587995372e+18,1.09793160187e+18,True,1.10418763413e+18,Sat Mar 09 01:10:21 +0000 2019,"We have an update on reported issues and upcoming fixes to Season of the Drifter.
+
+Thank you for all the reports an… https://t.co/2xWeHQuwDb",26280712.0,2538710.0,208.0,10987.0,True,1640.0,220.0,False,,,,1.10418763413e+18,True,False,,,,,,,,,,,,,,,,
+1,1105881291705147392,2019-03-13 17:20:20,"@AlphaAlex8 We totally understand, we have jobs too. That's why we do them here at Bungie while we're at work. It t… https://t.co/xVU4Er3ukM",26280712,Bungie,Bungie,2538710,208,10987,True,10,1,False,AlphaAlex8,1.10588011311e+18,2365065078.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,1105880715558699008,2019-03-13 17:18:03,@lld5141975 This one is on Xbox. We've got future PS4 and PC streams coming too.,26280712,Bungie,Bungie,2538710,208,10987,True,4,1,False,lld5141975,1.10588011157e+18,591118060.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,1105879724327231489,2019-03-13 17:14:07,@SP_220_HawkFire A few hours.,26280712,Bungie,Bungie,2538710,208,10987,True,4,1,False,SP_220_HawkFire,1.10587742374e+18,1281555728.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,1105876416531357698,2019-03-13 17:00:58,We're LIVE! Join us as we take on the community in Gambit Prime. https://t.co/lrQ3F228MU,26280712,Bungie,Bungie,2538710,208,10987,True,355,33,False,,,,True,1.10557618187e+18,Tue Mar 12 21:07:57 +0000 2019,"Xbox Bungie Bounty stream returns tomorrow @ 10am PT.
+
+Defeat us in Gambit Prime and receive a special emblem.
+
+💠… https://t.co/e6aQWOpxHV",26280712.0,2538710.0,208.0,10987.0,True,845.0,100.0,False,,,,1.10557618187e+18,True,False,,,,,,,,,,,,,,,,
+5,1105582417857798145,2019-03-12 21:32:43,@Spartan155711 We'll be hitting up each platform in a different stream.  Xbox is up first.,26280712,Bungie,Bungie,2538710,208,10987,True,17,1,False,Spartan155711,1.10557652538e+18,7.26909474125e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,1105582299830075392,2019-03-12 21:32:15,"@hemphlev March 20, 10 AM Pacific: PS4 Bungie Bounty
+April 3, 10 AM Pacific: PC Bungie Bounty",26280712,Bungie,Bungie,2538710,208,10987,True,10,1,False,hemphlev,1.10557680415e+18,1074488046.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,1105582187145920514,2019-03-12 21:31:48,@WhiteMalsom https://t.co/mpyTLlaOhu,26280712,Bungie,Bungie,2538710,208,10987,True,18,1,False,WhiteMalsom,1.1055771797e+18,2813762321.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,1105576181867266048,2019-03-12 21:07:57,"Xbox Bungie Bounty stream returns tomorrow @ 10am PT.
+
+Defeat us in Gambit Prime and receive a special emblem.
+
+💠… https://t.co/e6aQWOpxHV",26280712,Bungie,Bungie,2538710,208,10987,True,845,100,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,1105570708011139072,2019-03-12 20:46:11,@BennyRob22 @DestinyTheGame Yep.,26280712,Bungie,Bungie,2538710,208,10987,True,48,1,False,BennyRob22,1.10556211075e+18,126418334.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,1105533814074294272,2019-03-12 18:19:35,@christyr0cks @DestinyTheGame It should be live right now. Try restarting your game/system.,26280712,Bungie,Bungie,2538710,208,10987,True,43,1,False,christyr0cks,1.10553329442e+18,264626308.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,1105533281242513408,2019-03-12 18:17:28,RT @BungieHelp: We’re investigating an issue in which the Allegiance quest may disappear if players pick it up when their Pursuits inventor…,26280712,Bungie,Bungie,2538710,208,10987,True,0,101,False,,,,False,,,,,,,,,,,,,,,,,,1.1055318649e+18,Tue Mar 12 18:11:51 +0000 2019,2431136251.0,588103.0,14.0,2458.0,False,530.0,101.0,False,,,,False,False,False
+12,1105518480520929281,2019-03-12 17:18:39,"RT @DestinyTheGame: Will you stay loyal to the Vanguard or will you join The Drifter in his latest scam?
+
+The choice is yours.
+
+Weekly Rese…",26280712,Bungie,Bungie,2538710,208,10987,True,0,655,False,,,,False,,,,,,,,,,,,,,,,,,1.10551502528e+18,Tue Mar 12 17:04:56 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,3658.0,655.0,False,,,,True,False,False
+13,1105180198268428288,2019-03-11 18:54:27,@StubbyBean187 Welcome! That's great to hear.,26280712,Bungie,Bungie,2538710,208,10987,True,43,1,False,StubbyBean187,1.1051794979e+18,3303638072.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,1105179143262560258,2019-03-11 18:50:15,A daylight saving time FYI. https://t.co/wDcOhmhNWd,26280712,Bungie,Bungie,2538710,208,10987,True,1021,100,False,,,,True,1.10487452389e+18,Sun Mar 10 22:39:48 +0000 2019,"Starting today, Destiny 2’s daily and weekly reset time has changed to 10 AM PDT. For more information about our re… https://t.co/RKI07XBsHE",2431136251.0,588103.0,14.0,2458.0,False,783.0,209.0,False,,,,1.10487452389e+18,False,False,,,,,,,,,,,,,,,,
+15,1105160654346833920,2019-03-11 17:36:47,"RT @DestinyTheGame: A villain's weapon returns tomorrow.
+
+Will you dare wield Thorn, the legendary Weapon of Sorrow? https://t.co/jvhqaKNxus",26280712,Bungie,Bungie,2538710,208,10987,True,0,1582,False,,,,False,,,,,,,,,,,,,,,,,,1.10516046655e+18,Mon Mar 11 17:36:02 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,7856.0,1582.0,False,,,,True,False,False
+16,1104194787366731776,2019-03-09 01:38:46,@ravenspire1 That's always our goal. Thanks.,26280712,Bungie,Bungie,2538710,208,10987,True,45,1,False,ravenspire1,1.10419232911e+18,591126580.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,1104194448211111937,2019-03-09 01:37:26,@GILx87 @BungieHelp They should still reset on Sunday however this bug will be fixed going forward on Tuesday.,26280712,Bungie,Bungie,2538710,208,10987,True,35,1,False,GILx87,1.10418925045e+18,23158021.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,1104193968407949312,2019-03-09 01:35:31,@SeraphimCrypto https://t.co/ifXPQLX8fn,26280712,Bungie,Bungie,2538710,208,10987,True,113,3,False,SeraphimCrypto,1.1041916197e+18,3377066393.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,1104190397641703424,2019-03-09 01:21:20,@AEONFighter27 https://t.co/v336RKXgOm,26280712,Bungie,Bungie,2538710,208,10987,True,3,1,False,AEONFighter27,1.10419006757e+18,1884643788.0,True,1.10418763413e+18,Sat Mar 09 01:10:21 +0000 2019,"We have an update on reported issues and upcoming fixes to Season of the Drifter.
+
+Thank you for all the reports an… https://t.co/2xWeHQuwDb",26280712.0,2538710.0,208.0,10987.0,True,1640.0,220.0,False,,,,1.10418763413e+18,True,False,,,,,,,,,,,,,,,,
+20,1104189440920969216,2019-03-09 01:17:32,@mercy_neutral We're aware of this issue. Thank you. https://t.co/sQpdPn3KKG,26280712,Bungie,Bungie,2538710,208,10987,True,35,1,False,mercy_neutral,1.10418908657e+18,8.7679934722e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,1104187634128023552,2019-03-09 01:10:21,"We have an update on reported issues and upcoming fixes to Season of the Drifter.
+
+Thank you for all the reports an… https://t.co/2xWeHQuwDb",26280712,Bungie,Bungie,2538710,208,10987,True,1640,220,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,1104160658591891456,2019-03-08 23:23:09,@sweetupdown06 Thank you for playing!,26280712,Bungie,Bungie,2538710,208,10987,True,41,1,False,sweetupdown06,1.10415739065e+18,2497201980.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,1104160382719946752,2019-03-08 23:22:04,@SHGames 100%. Thank you!,26280712,Bungie,Bungie,2538710,208,10987,True,352,5,False,SHGames,1.10415852997e+18,121226571.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,1104156645737680896,2019-03-08 23:07:13,@MarximumCarnage Absolutely!,26280712,Bungie,Bungie,2538710,208,10987,True,75,1,False,MarximumCarnage,1.10415615414e+18,1.08249457252e+18,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,1104155899436756992,2019-03-08 23:04:15,"Happy #InternationalWomensDay from Bungie.
+
+Celebrating our women and non-binary developers. https://t.co/VBDwepEOS2",26280712,Bungie,Bungie,2538710,208,10987,True,8257,1075,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,1104147826450132992,2019-03-08 22:32:10,@Halocraft2 Good plan.,26280712,Bungie,Bungie,2538710,208,10987,True,9,1,False,Halocraft2,1.10412947174e+18,4410436289.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,1104147318566051840,2019-03-08 22:30:09,"@TheOtherJeff James Bungie here. Thank you for the idea, we'll pass it along.",26280712,Bungie,Bungie,2538710,208,10987,True,8,1,False,TheOtherJeff,1.10413949206e+18,14361665.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,1104147096842657793,2019-03-08 22:29:16,@BrunoBuonanno2 You can view the breakdown here. https://t.co/tyKfAsXerZ,26280712,Bungie,Bungie,2538710,208,10987,True,5,1,False,BrunoBuonanno2,1.10413769924e+18,1.09316843032e+18,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,1104146155514937344,2019-03-08 22:25:32,@omgcornholio https://t.co/A6zH582bQw,26280712,Bungie,Bungie,2538710,208,10987,True,24,1,False,omgcornholio,1.1041419964e+18,3119958081.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,1104127360691974144,2019-03-08 21:10:51,@aka_Icyy Fated Engrams do not have a chance for Forsaken Exotics; will be updated in a future patch. https://t.co/Hi3rESEUdo,26280712,Bungie,Bungie,2538710,208,10987,True,23,2,False,aka_Icyy,1.10412671294e+18,2643098533.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,1104116801384771584,2019-03-08 20:28:53,@destinylover24 Correct.,26280712,Bungie,Bungie,2538710,208,10987,True,4,1,False,destinylover24,1.10411599087e+18,8.67092361e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,1104116097463156736,2019-03-08 20:26:05,@tiiedye_ Lookin' good!,26280712,Bungie,Bungie,2538710,208,10987,True,39,1,False,tiiedye_,1.10411563532e+18,7.44276962932e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,1104114304213643264,2019-03-08 20:18:58,"Have you gotten your hands on the new Gambit Prime weapons?
+
+Acquire them from playing Gambit Prime and Reckoning T… https://t.co/T4EWvLZCYj",26280712,Bungie,Bungie,2538710,208,10987,True,2912,354,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,1104097070292467712,2019-03-08 19:10:29,@xGladdOnTwitch https://t.co/gPaUCpU6BE,26280712,Bungie,Bungie,2538710,208,10987,True,549,10,False,xGladdOnTwitch,1.10409668664e+18,8.50083436409e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,1104096611196579840,2019-03-08 19:08:39,@KobOneArt @xGladdOnTwitch https://t.co/umNGT6hBAA,26280712,Bungie,Bungie,2538710,208,10987,True,78,2,False,KobOneArt,1.10409608115e+18,4116467054.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,1104096205926092802,2019-03-08 19:07:03,@Grimno @DestinyTheGame This made us laugh. Well played. Bland potato salad is the worst.,26280712,Bungie,Bungie,2538710,208,10987,True,122,5,False,Grimno,1.10409102505e+18,604748923.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,1104095714236223489,2019-03-08 19:05:06,@xGladdOnTwitch Gladd you like it!,26280712,Bungie,Bungie,2538710,208,10987,True,940,21,False,xGladdOnTwitch,1.10407396143e+18,8.50083436409e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,1104065143506235392,2019-03-08 17:03:37,"RT @DestinyTheGame: Reckoning Tier 2 is now open.
+
+Remember, the IX are watching. https://t.co/TKtNujcHM9",26280712,Bungie,Bungie,2538710,208,10987,True,0,564,False,,,,False,,,,,,,,,,,,,,,,,,1.1040650212e+18,Fri Mar 08 17:03:08 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,4368.0,564.0,False,,,,True,False,False
+39,1103828823357906945,2019-03-08 01:24:34,@wryennotwyren Great to hear!,26280712,Bungie,Bungie,2538710,208,10987,True,16,1,False,wryennotwyren,1.10382870544e+18,7.06537892584e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,1103828068747993088,2019-03-08 01:21:34,"@TheTechne1 Season of the Drifter has a mix of content for Annual Pass and non-AP owners. The TWAB is free, though.… https://t.co/dvNpqCcqwL",26280712,Bungie,Bungie,2538710,208,10987,True,15,1,False,TheTechne1,1.10382391001e+18,3893517683.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,1103827530874707969,2019-03-08 01:19:26,@PlowmanEric What issues would you like to see addressed? We'll definitely pass them along.,26280712,Bungie,Bungie,2538710,208,10987,True,19,1,False,PlowmanEric,1.10382676977e+18,7.837037084e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,1103827068213637120,2019-03-08 01:17:35,@DTMOT1 Glad you like it!,26280712,Bungie,Bungie,2538710,208,10987,True,25,1,False,DTMOT1,1.10382359912e+18,1.05818776129e+18,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,1103826910377783296,2019-03-08 01:16:58,@Primezzzzzz1 We touch on this in the TWAB above. TL;DR: We're investigating.,26280712,Bungie,Bungie,2538710,208,10987,True,15,1,False,Primezzzzzz1,1.10382458714e+18,7.43505370665e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,1103826611697213441,2019-03-08 01:15:46,@JokerJoey220 We're glad to hear you and your clan are having fun!,26280712,Bungie,Bungie,2538710,208,10987,True,31,1,False,JokerJoey220,1.10382559086e+18,2898011135.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,1103822591557419008,2019-03-08 00:59:48,"This week at Bungie, we launched Season of the Drifter.
+
+https://t.co/sQpdPn3KKG https://t.co/E7v8nnRLSX",26280712,Bungie,Bungie,2538710,208,10987,True,2463,360,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,1103822392533499904,2019-03-08 00:59:01,@rxsurrxction On its way!,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,rxsurrxction,1.10381418673e+18,1.02229839472e+18,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,1103822058218110976,2019-03-08 00:57:41,@guitaristk_lub https://t.co/gGpBb5iIwh,26280712,Bungie,Bungie,2538710,208,10987,True,27,3,False,guitaristk_lub,1.10382147453e+18,3234773610.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,1103806963232567296,2019-03-07 23:57:42,"@Roguetoad27 Yes, Gambit Prime requires the Annual Pass.",26280712,Bungie,Bungie,2538710,208,10987,True,7,1,False,Roguetoad27,1.10380502077e+18,1491593869.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,1103759750192259073,2019-03-07 20:50:05,@MadMontyMN Xur now has the possibility of offering Forsaken Exotics.,26280712,Bungie,Bungie,2538710,208,10987,True,6,1,False,MadMontyMN,1.10375650441e+18,40375930.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,1103758365098893312,2019-03-07 20:44:35,@DefreyneLouis It'll take some time for people to learn it all. We're glad you like it.,26280712,Bungie,Bungie,2538710,208,10987,True,23,2,False,DefreyneLouis,1.10373900046e+18,2444806661.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,1103738964052045824,2019-03-07 19:27:30,@mahbooooiii We're glad you like it!,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,mahbooooiii,1.10373751302e+18,7.70266506786e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,1103738078680604672,2019-03-07 19:23:59,@Thunderclifton9 Oh yes!,26280712,Bungie,Bungie,2538710,208,10987,True,56,2,False,Thunderclifton9,1.10373739638e+18,8.17182235086e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,1103737993037209600,2019-03-07 19:23:38,@Ronni3Williams Stay tuned to @BungieHelp and https://t.co/KDLQ9B5NOe for any updates. https://t.co/gTU6PG8KFt,26280712,Bungie,Bungie,2538710,208,10987,True,14,1,False,Ronni3Williams,1.10373768166e+18,81238918.0,True,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some player… https://t.co/cvbhnl195c,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,1.10298553523e+18,False,False,,,,,,,,,,,,,,,,
+54,1103737296111587328,2019-03-07 19:20:52,New Arcadia is here but another new Gambit Prime map arrives next week: Deep Six. https://t.co/E9vLlvHuw3,26280712,Bungie,Bungie,2538710,208,10987,True,3363,367,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,1103449065541394432,2019-03-07 00:15:32,@joedino_12 Make sure to report bugs here: https://t.co/KDLQ9B5NOe,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,joedino_12,1.10343592263e+18,3168055662.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,1103448947970891776,2019-03-07 00:15:04,"@GRABurPILLOW Thanks for that feedback, and thank you for playing.",26280712,Bungie,Bungie,2538710,208,10987,True,15,1,False,GRABurPILLOW,1.10343669049e+18,8.07766586665e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,1103448438681681920,2019-03-07 00:13:03,@CaeIix @BungieHelp https://t.co/gTU6PG8KFt,26280712,Bungie,Bungie,2538710,208,10987,True,4,1,False,CaeIix,1.10344307201e+18,1.06004177275e+18,True,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some player… https://t.co/cvbhnl195c,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,1.10298553523e+18,False,False,,,,,,,,,,,,,,,,
+58,1103436481585065985,2019-03-06 23:25:32,@pythrmusic Thank you so much for the kind words. We're so glad you've enjoyed your time playing.,26280712,Bungie,Bungie,2538710,208,10987,True,8,2,False,pythrmusic,1.10342818283e+18,3053629900.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,1103378591738482688,2019-03-06 19:35:30,@GreatDekuStick Nicely done!,26280712,Bungie,Bungie,2538710,208,10987,True,11,1,False,GreatDekuStick,1.10337704742e+18,9.21313591416e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,1103366751201329152,2019-03-06 18:48:27,"@Synephtics If there's an update, @BungieHelp will share it on that blog on their channel.",26280712,Bungie,Bungie,2538710,208,10987,True,16,1,False,Synephtics,1.10336601231e+18,2773146779.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,1103365070614978561,2019-03-06 18:41:47,@Synephtics https://t.co/gTU6PG8KFt,26280712,Bungie,Bungie,2538710,208,10987,True,26,1,False,Synephtics,1.10336454262e+18,2773146779.0,True,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some player… https://t.co/cvbhnl195c,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,1.10298553523e+18,False,False,,,,,,,,,,,,,,,,
+62,1103364573027946496,2019-03-06 18:39:48,"@Protheon_ Thanks, Protheon!",26280712,Bungie,Bungie,2538710,208,10987,True,69,1,False,Protheon_,1.10336380891e+18,3227674106.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,1103363801812918273,2019-03-06 18:36:44,Which Gambit Prime role are you choosing?,26280712,Bungie,Bungie,2538710,208,10987,True,658,96,False,Bungie,1.10336357563e+18,26280712.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,1103363575626620928,2019-03-06 18:35:50,"Clear, gather, protect, and hunt. 
+
+How will you dominate Gambit Prime? https://t.co/ymFWFAGMsh",26280712,Bungie,Bungie,2538710,208,10987,True,2663,305,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,1103359843367182336,2019-03-06 18:21:00,@lloydcoombes 🙌 Awesome!,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,lloydcoombes,1.10335913745e+18,86039597.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,1103355898267820037,2019-03-06 18:05:20,@SENDxMExDOWN Thank you so much for playing. We're glad you like it.,26280712,Bungie,Bungie,2538710,208,10987,True,3,1,False,SENDxMExDOWN,1.10335291192e+18,213431553.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,1103354973973229568,2019-03-06 18:01:39,@FisHLoC_87 @DestinyTheGame Thanks!,26280712,Bungie,Bungie,2538710,208,10987,True,5,2,False,FisHLoC_87,1.10332976571e+18,8.87795756199e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,1103354611895681024,2019-03-06 18:00:13,@1KTFN @BungieHelp https://t.co/gTU6PG8KFt,26280712,Bungie,Bungie,2538710,208,10987,True,3,1,False,1KTFN,1.10333396895e+18,1652948534.0,True,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some player… https://t.co/cvbhnl195c,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,1.10298553523e+18,False,False,,,,,,,,,,,,,,,,
+69,1103354461261422592,2019-03-06 17:59:37,@Razed_By_Wolves Glad to hear it!,26280712,Bungie,Bungie,2538710,208,10987,True,4,1,False,Razed_By_Wolves,1.10333458815e+18,7.74679334607e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,1103353407723585537,2019-03-06 17:55:26,@Sam_cordg All of the Season of the Forge content is still available in game.,26280712,Bungie,Bungie,2538710,208,10987,True,3,1,False,Sam_cordg,1.10334443027e+18,8.74441096206e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,1103352941497376768,2019-03-06 17:53:35,@portly_assassin Sorry about that. https://t.co/gTU6PG8KFt,26280712,Bungie,Bungie,2538710,208,10987,True,6,1,False,portly_assassin,1.10334795682e+18,151551049.0,True,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some player… https://t.co/cvbhnl195c,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,1.10298553523e+18,False,False,,,,,,,,,,,,,,,,
+72,1103349665322328067,2019-03-06 17:40:34,"RT @BungieStore: The Season of the Drifter is here – and the Bungie Store is celebrating with the exclusive ""First To The Wild"" Destiny 2 i…",26280712,Bungie,Bungie,2538710,208,10987,True,0,120,False,,,,False,,,,,,,,,,,,,,,,,,1.1030894522e+18,Wed Mar 06 00:26:34 +0000 2019,7.0337599048e+17,29275.0,12.0,191.0,False,589.0,120.0,False,,,,False,False,False
+73,1103057154158735360,2019-03-05 22:18:14,"RT @DestinyTheGame: The Recluse - SMG - Crucible Pinnacle Weapon
+
+Kills with any weapon improve damage for a short time.
+
+Oh, and starting…",26280712,Bungie,Bungie,2538710,208,10987,True,0,414,False,,,,False,,,,,,,,,,,,,,,,,,1.10305636059e+18,Tue Mar 05 22:15:04 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,3127.0,414.0,False,,,,True,False,False
+74,1103045219690307584,2019-03-05 21:30:48,@mother_uv2 https://t.co/gTU6PG8KFt,26280712,Bungie,Bungie,2538710,208,10987,True,9,1,False,mother_uv2,1.10304319599e+18,3017783724.0,True,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some player… https://t.co/cvbhnl195c,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,1.10298553523e+18,False,False,,,,,,,,,,,,,,,,
+75,1103044952504721409,2019-03-05 21:29:44,@LootStreams WE'RE SO GLAD YOU LIKE THEM!,26280712,Bungie,Bungie,2538710,208,10987,True,4,2,False,LootStreams,1.10304361099e+18,438099771.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+76,1103043366416146437,2019-03-05 21:23:26,"RT @DestinyTheGame: 21% Delirium - Machine Gun - Gambit Pinnacle Weapon
+
+Kills increase damage until it's stowed or reloaded. https://t.co/…",26280712,Bungie,Bungie,2538710,208,10987,True,0,516,False,,,,False,,,,,,,,,,,,,,,,,,1.10304089844e+18,Tue Mar 05 21:13:38 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,3908.0,516.0,False,,,,True,False,False
+77,1103037143008436229,2019-03-05 20:58:42,@DavidReevers It's under our Exotic Power Weapons explanation.,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,DavidReevers,1.10303640459e+18,139608230.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,1103030124067217408,2019-03-05 20:30:49,@DavidReevers Learn more here: https://t.co/573TWHtQ7h,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,DavidReevers,1.10302352056e+18,139608230.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,1103029856248295424,2019-03-05 20:29:45,@mR_Haz33 You can view our thoughts here: https://t.co/rQzuwza3MQ,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,mR_Haz33,1.1030254903e+18,9.58021387797e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,1103029323768901632,2019-03-05 20:27:38,@EpsilonTheAI https://t.co/gTU6PG8KFt,26280712,Bungie,Bungie,2538710,208,10987,True,2,1,False,EpsilonTheAI,1.10302656075e+18,7.0918934832e+17,True,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some player… https://t.co/cvbhnl195c,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,1.10298553523e+18,False,False,,,,,,,,,,,,,,,,
+81,1103029176838238209,2019-03-05 20:27:03,@blasthorror @gingapleez You can learn more here: https://t.co/573TWHtQ7h,26280712,Bungie,Bungie,2538710,208,10987,True,3,1,False,blasthorror,1.10300118864e+18,1.08303328558e+18,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,1103028277013172224,2019-03-05 20:23:29,RT @BungieHelp: We are currently investigating issues where Polish and Korean language players are experiencing game crashes when talking t…,26280712,Bungie,Bungie,2538710,208,10987,True,0,36,False,,,,False,,,,,,,,,,,,,,,,,,1.10302810947e+18,Tue Mar 05 20:22:49 +0000 2019,2431136251.0,588103.0,14.0,2458.0,False,412.0,36.0,False,,,,False,False,False
+83,1103027363300831232,2019-03-05 20:19:51,"RT @DestinyTheGame: Oxygen SR3 - Scout Rifle - Vanguard Pinnacle Weapon 
+
+The more precision hits, the greater your Dragonfly explosions. h…",26280712,Bungie,Bungie,2538710,208,10987,True,0,764,False,,,,False,,,,,,,,,,,,,,,,,,1.10302524761e+18,Tue Mar 05 20:11:26 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,5438.0,764.0,False,,,,True,False,False
+84,1102998883867607041,2019-03-05 18:26:41,@darknes_iz_mine Welcome back.,26280712,Bungie,Bungie,2538710,208,10987,True,33,1,False,darknes_iz_mine,1.10299785345e+18,599822372.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,1102998661410111488,2019-03-05 18:25:48,@joeldawson83 https://t.co/drO5A6DiEJ,26280712,Bungie,Bungie,2538710,208,10987,True,41,1,False,joeldawson83,1.10299831973e+18,15409844.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,1102998473396256769,2019-03-05 18:25:03,@gingapleez https://t.co/uhcH6AYzyN,26280712,Bungie,Bungie,2538710,208,10987,True,41,3,False,gingapleez,1.1029983054e+18,1102032265.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,1102997625228259328,2019-03-05 18:21:41,"Jump right into the action with Power Surge Bounties.
+
+The Drifter is offering bounties to bring all level 50 Annua… https://t.co/j3Xq3PuIxe",26280712,Bungie,Bungie,2538710,208,10987,True,2255,302,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,1102989534189350912,2019-03-05 17:49:32,@AER0KNIGHT We're glad you like 'em! We can't wait to see what people do with them.,26280712,Bungie,Bungie,2538710,208,10987,True,11,1,False,AER0KNIGHT,1.10298287311e+18,3161510150.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,1102989004616556544,2019-03-05 17:47:25,@SnappyYer @DestinyTheGame We touched on Exotic Power Weapon changes here: https://t.co/573TWHtQ7h,26280712,Bungie,Bungie,2538710,208,10987,True,3,1,False,SnappyYer,1.10298518803e+18,1.09536824514e+18,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,1102987591010279424,2019-03-05 17:41:48,@useless_power Thanks! We're glad you like it.,26280712,Bungie,Bungie,2538710,208,10987,True,3,1,False,useless_power,1.10298743122e+18,504017661.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,1102986267023695872,2019-03-05 17:36:33,"RT @BungieHelp: Patch notes for Destiny 2 Update 2.2.0 are now available. Stay tuned for updates on the status of maintenance.
+https://t.co…",26280712,Bungie,Bungie,2538710,208,10987,True,0,192,False,,,,False,,,,,,,,,,,,,,,,,,1.1029814777e+18,Tue Mar 05 17:17:31 +0000 2019,2431136251.0,588103.0,14.0,2458.0,False,830.0,192.0,False,,,,False,False,False
+92,1102986137008664576,2019-03-05 17:36:02,"RT @BungieHelp: We are investigating an issue where Weekly Bounties from various vendors are not properly resetting for some players.
+
+For…",26280712,Bungie,Bungie,2538710,208,10987,True,0,67,False,,,,False,,,,,,,,,,,,,,,,,,1.10298553523e+18,Tue Mar 05 17:33:38 +0000 2019,2431136251.0,588103.0,14.0,2458.0,False,431.0,67.0,False,,,,False,False,False
+93,1102977240206327813,2019-03-05 17:00:41,"RT @DestinyTheGame: Season of the Drifter is here but Gambit Prime is just the beginning.
+
+Prepare for The Reckoning. https://t.co/pXURVlaM…",26280712,Bungie,Bungie,2538710,208,10987,True,0,1299,False,,,,False,,,,,,,,,,,,,,,,,,1.10297708547e+18,Tue Mar 05 17:00:04 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,5263.0,1299.0,False,,,,True,False,False
+94,1102962765227085829,2019-03-05 16:03:09,RT @IanPesty: 'EMBRACE THE DARKNESS' 💀 This one goes out to all the Invaders... #SeasonoftheDrifter @DestinyNews_net @BungieInformer @A_dmg…,26280712,Bungie,Bungie,2538710,208,10987,True,0,352,False,,,,False,,,,,,,,,,,,,,,,,,1.10267324347e+18,Mon Mar 04 20:52:42 +0000 2019,1307301343.0,3524.0,705.0,3326.0,False,1759.0,352.0,False,,,,False,False,False
+95,1102962076819976193,2019-03-05 16:00:25,"RT @BungieHelp: Destiny 2 maintenance has begun. Downtime is expected from 8:45 to 9 AM PST.
+
+More info: https://t.co/Ocy0lEVMfq",26280712,Bungie,Bungie,2538710,208,10987,True,0,128,False,,,,False,,,,,,,,,,,,,,,,,,1.10296197448e+18,Tue Mar 05 16:00:01 +0000 2019,2431136251.0,588103.0,14.0,2458.0,False,669.0,128.0,False,,,,False,False,False
+96,1102697728994271233,2019-03-04 22:30:00,@ACidGoblin12 Lookin' great! Nice shots.,26280712,Bungie,Bungie,2538710,208,10987,True,6,1,False,ACidGoblin12,1.10268901791e+18,7.04084090187e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,1102675896052273152,2019-03-04 21:03:15,"RT @DestinyTheGame: ""We need you to leave the Drifter alone.""
+
+https://t.co/KzGRgL2Yzm https://t.co/zpKMrdHg3X",26280712,Bungie,Bungie,2538710,208,10987,True,0,681,False,,,,False,,,,,,,,,,,,,,,,,,1.10266282919e+18,Mon Mar 04 20:11:19 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,3806.0,681.0,False,,,,True,False,False
+98,1102662085874335744,2019-03-04 20:08:22,@AndresAmbriz16 Yep!,26280712,Bungie,Bungie,2538710,208,10987,True,16,1,False,AndresAmbriz16,1.10266080591e+18,8.9548920574e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,1102654901644013568,2019-03-04 19:39:49,@remyderden You can see them here: https://t.co/3uRbJdPanm,26280712,Bungie,Bungie,2538710,208,10987,True,18,2,False,remyderden,1.10265336613e+18,519839466.0,True,1.10262548773e+18,Mon Mar 04 17:42:56 +0000 2019,"Gambit has evolved.
+
+Choose your role: Reaper, Sentry, Collector, Invader.
+
+🐍 https://t.co/vB7Au7sc89 https://t.co/l5x129dfxv",948444535.0,2315377.0,25.0,3572.0,True,6735.0,1727.0,False,,,,1.10262548773e+18,True,False,,,,,,,,,,,,,,,,
+100,1102651395298144256,2019-03-04 19:25:53,@Vinnie_78_ Yep!,26280712,Bungie,Bungie,2538710,208,10987,True,33,1,False,Vinnie_78_,1.10265132804e+18,9.18114182021e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,1102649183532539904,2019-03-04 19:17:06,@Ecczer You can collect all of them!,26280712,Bungie,Bungie,2538710,208,10987,True,21,1,False,Ecczer,1.10264905693e+18,7.75149142088e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,1102648648825954304,2019-03-04 19:14:58,"@AJCoombs Anyone can still invade. If they're glowing red, though, watch out.",26280712,Bungie,Bungie,2538710,208,10987,True,13,1,False,AJCoombs,1.10264820665e+18,33577937.0,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,1102648396366540801,2019-03-04 19:13:58,@Djpeep1 You can choose which Gambit Prime armor set you'd like to earn from Reckoning. It will all be explained in game when it goes live.,26280712,Bungie,Bungie,2538710,208,10987,True,98,8,False,Djpeep1,1.10264726781e+18,9.95320213901e+17,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,1102647018457952257,2019-03-04 19:08:30,"Know what you're up against.
+
+Gambit Prime armor sets have unique perks and a unique color to match. https://t.co/T8UhGOubfz",26280712,Bungie,Bungie,2538710,208,10987,True,3936,716,False,,,,False,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,1102626959236849664,2019-03-04 17:48:47,"RT @DestinyTheGame: Gambit has evolved.
+
+Choose your role: Reaper, Sentry, Collector, Invader.
+
+🐍 https://t.co/vB7Au7sc89 https://t.co/l5x1…",26280712,Bungie,Bungie,2538710,208,10987,True,0,1727,False,,,,False,,,,,,,,,,,,,,,,,,1.10262548773e+18,Mon Mar 04 17:42:56 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,6735.0,1727.0,False,,,,True,False,False
+106,1102342253660389376,2019-03-03 22:57:28,"RT @DestinyTheGame: “And what actually happens if the saint turns out to be a sinner?”
+
+https://t.co/IguNliIXzZ https://t.co/galPqIGEBy",26280712,Bungie,Bungie,2538710,208,10987,True,0,989,False,,,,False,,,,,,,,,,,,,,,,,,1.10232850447e+18,Sun Mar 03 22:02:50 +0000 2019,948444535.0,2315377.0,25.0,3572.0,True,5281.0,989.0,False,,,,True,False,False
