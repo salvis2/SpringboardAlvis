@@ -61,7 +61,7 @@ Data is analyzed with machine learning in the in-depth analysis (IDA)
 </a>.
   
 
-<a href='https://docs.google.com/document/d/1R3gYKpOdeu2fklTPPRNTi-4Tso-tiKHORYBUdV8Dl_E/edit?usp=sharing'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/reports/capstone_project_1_final_report.pdf'>
   Final report
 </a>
 <br>
