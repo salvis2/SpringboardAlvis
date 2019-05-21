@@ -1,4 +1,7 @@
 ## League of Legends Item Balancing
+
+![League of Legends logo](https://i.kym-cdn.com/photos/images/newsfeed/000/691/679/f7b.jpg)
+
 This is the repository for my first capstone project: League of Legends Item Balancing, part of my SpringBoard Data Science Career Track curriculum.
 
 ### About this project
