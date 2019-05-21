@@ -1,8 +1,8 @@
 # Capstone Project 2: Bungie Public Opinion Analysis
 
-<img href='https://www.bungie.net/img/bungie_styleguide/logos-lightversion-solidswoosh.png'>
+<img href='https://www.bungie.net/img/bungie_styleguide/logos-lightversion-solidswoosh.png'/>
 
-<img href='https://i.imgur.com/YzQdSNB.png'>
+<img href='https://i.imgur.com/YzQdSNB.png'/>
 
 This is the repository for my second capstone project: Public Opinion Twitter Analysis for Bungie and Destiny 2, part of my <a href='https://www.springboard.com/workshops/data-science-career-track-course/'>
   SpringBoard Data Science Career Track Bootcamp
