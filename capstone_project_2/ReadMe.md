@@ -2,7 +2,7 @@
 
 ![Bungie](https://www.bungie.net/img/bungie_styleguide/logos-lightversion-solidswoosh.png)
 
-![Destiny 2](https://i.imgur.com/YzQdSNB.png')
+![Destiny 2](http://www.psnation.com/wp-content/uploads/2017/03/Destiny-2.jpg)
 
 This is the repository for my second capstone project: Public Opinion Twitter Analysis for Bungie and Destiny 2, part of my <a href='https://www.springboard.com/workshops/data-science-career-track-course/'>
   SpringBoard Data Science Career Track Bootcamp
