@@ -54,7 +54,7 @@ Data is analyzed statistically in the exploratory data analysis (EDA)
 <a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/notebooks/capstone_project_1_EDA.ipynb'>
   notebook
 </a>.<br>
-<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/notebooks/capstone_project_1_eda_report.pdf'>
+<a href='https://github.com/salvis2/SpringboardAlvis/blob/master/capstone_project_1/reports/capstone_project_1_eda_report.pdf'>
   The EDA Explained
 </a>
 
